@@ -16,11 +16,8 @@ Exemplos de denúncias
   
 Controle de acesso
 
-  -Usuários comuns:
-  -Podem criar e visualizar denúncias
-  -Administradores (email terminando com @admin.com):
-  -Possuem todas as permissões
-  -Podem marcar denúncias como resolvidas
+  -Usuários comuns: Podem criar e visualizar denúncias
+  -Administradores (email terminando com @admin.com): Possuem todas as permissões. Podem marcar denúncias como resolvidas
   
 Banco de dados
 
