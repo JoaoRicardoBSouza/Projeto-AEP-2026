@@ -27,8 +27,8 @@ Banco de dados
 Estrutura do projeto
 
   -Main → Interface principal (menu no console)
-  -Denuncia → Classe que representa uma denúncia
-  -DenunciaDAO → Operações de banco de dados (CRUD)
+  -Postagem → Classe que representa uma postagem
+  -PostagemDAO → Operações de banco de dados (CRUD)
   -ConexaoBanco → Gerenciamento da conexão
   -TableManager → Criação das tabelas
   
